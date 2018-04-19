@@ -67,6 +67,5 @@ void printVector(const vector<int> &results)
   {
     cout<<results[i]<<" ";
   }
-  cout<<endl;
 }
 
