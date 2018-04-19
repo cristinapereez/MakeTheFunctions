@@ -4,7 +4,9 @@
 using namespace std;
 
 //prototypes:
-
+int isPositive(int);
+void fillWith(int);
+void printVector(int);
 
 /////DO NOT TOUCH/////
 int main()
@@ -42,3 +44,4 @@ int main()
 }
 
 //function definitions
+
